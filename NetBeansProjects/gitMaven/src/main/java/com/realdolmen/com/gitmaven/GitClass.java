@@ -12,7 +12,9 @@ package com.realdolmen.com.gitmaven;
 public class GitClass {
 
     public GitClass() {
-        System.out.println("Hello Git 1word");
+        System.out.println("H3ll0 W0RLd, W4ZUP 3R1K");
     }
+    
+    
     
 }
