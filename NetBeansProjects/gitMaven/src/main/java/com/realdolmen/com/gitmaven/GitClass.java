@@ -15,6 +15,9 @@ public class GitClass {
         System.out.println("H3ll0 W0RLd, W4ZUP 3R1K");
     }
     
+    public void yoLerys(){
+        System.out.println("sup coolboi");
+    }
     
     
 }
